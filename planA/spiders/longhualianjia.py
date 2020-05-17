@@ -68,5 +68,5 @@ if __name__ == '__main__':
     args = "scrapy crawl longhualianjia".split()
     cmdline.execute(args)
 
-#运行spider命令1
+#运行spider命令
 #scrapy runspider longhualianjia.py -a query=ershoufang/ie2y4l2l3a3a4p5
